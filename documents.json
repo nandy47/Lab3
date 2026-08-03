@@ -1,0 +1,122 @@
+[
+  {
+    "topic": "cooking",
+    "text": "Boiling pasta in well-salted water improves its flavor and texture.",
+    "id": 0
+  },
+  {
+    "topic": "cooking",
+    "text": "Baking bread requires yeast to ferment the dough and create air pockets.",
+    "id": 1
+  },
+  {
+    "topic": "cooking",
+    "text": "Olive oil is commonly used in Mediterranean cuisine for cooking and dressings.",
+    "id": 2
+  },
+  {
+    "topic": "cooking",
+    "text": "Marinating chicken before grilling helps keep it juicy and flavorful.",
+    "id": 3
+  },
+  {
+    "topic": "cooking",
+    "text": "Fresh herbs like basil and parsley add aroma and freshness to many dishes.",
+    "id": 4
+  },
+  {
+    "topic": "sports",
+    "text": "Football is played between two teams that compete to score goals.",
+    "id": 5
+  },
+  {
+    "topic": "sports",
+    "text": "Cricket bowlers aim to dismiss batters by hitting the stumps or forcing mistakes.",
+    "id": 6
+  },
+  {
+    "topic": "sports",
+    "text": "Basketball players score points by shooting the ball through the opponent's hoop.",
+    "id": 7
+  },
+  {
+    "topic": "sports",
+    "text": "Swimming is a full-body sport that improves endurance and cardiovascular fitness.",
+    "id": 8
+  },
+  {
+    "topic": "sports",
+    "text": "Tennis matches are won by earning enough sets according to the tournament rules.",
+    "id": 9
+  },
+  {
+    "topic": "astrology",
+    "text": "Aries is traditionally associated with confidence, energy, and leadership.",
+    "id": 10
+  },
+  {
+    "topic": "astrology",
+    "text": "The zodiac consists of twelve signs based on the apparent path of the Sun.",
+    "id": 11
+  },
+  {
+    "topic": "astrology",
+    "text": "Astrologers often interpret birth charts using planetary positions at birth.",
+    "id": 12
+  },
+  {
+    "topic": "astrology",
+    "text": "Mercury retrograde is popularly believed to influence communication and travel.",
+    "id": 13
+  },
+  {
+    "topic": "astrology",
+    "text": "Many horoscope readings discuss compatibility between different zodiac signs.",
+    "id": 14
+  },
+  {
+    "topic": "mathematics",
+    "text": "The Pythagorean theorem relates the sides of a right triangle.",
+    "id": 15
+  },
+  {
+    "topic": "mathematics",
+    "text": "Calculus studies change using concepts such as derivatives and integrals.",
+    "id": 16
+  },
+  {
+    "topic": "mathematics",
+    "text": "Prime numbers have exactly two positive divisors: one and themselves.",
+    "id": 17
+  },
+  {
+    "topic": "mathematics",
+    "text": "Matrices are widely used in linear algebra to represent systems of equations.",
+    "id": 18
+  },
+  {
+    "topic": "mathematics",
+    "text": "Probability measures the likelihood that an event will occur.",
+    "id": 19
+  },
+  {
+    "topic": "mathematics",
+    "text": "Eigenvalues and eigenvectors describe important properties of linear transformations.",
+    "id": 20
+  },
+  {
+    "topic": "sports",
+    "text": "Regular strength training helps athletes improve power and reduce injury risk.",
+    "id": 21
+  },
+  {
+    "topic": "cooking",
+    "text": "Simmering soup over low heat allows flavors to blend gradually.",
+    "id": 22
+  },
+  {
+    "topic": "astrology",
+    "text": "The Moon's position in a birth chart is often associated with emotions and instincts.",
+    "id": 23
+  }
+]

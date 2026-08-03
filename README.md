@@ -144,7 +144,6 @@ Each point represents one document and is colored according to its topic, allowi
 - `embeddings.py` - Implements embedding generation using offline mode and NVIDIA NIM API mode.
 - `search.py` - Implements document loading, embedding matrix creation, caching, cosine similarity search, and PCA visualization.
 - `documents.json` - Contains the custom corpus of documents with topic labels, text passages, and unique IDs.
-- `embeddings_cache.json` - Stores generated embeddings for faster future runs.
 - `requirements.txt` - Lists required Python dependencies.
 - `README.md` - Project documentation.
 - `PCA_prompts.png` - Sample PCA output

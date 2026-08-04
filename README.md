@@ -139,11 +139,18 @@ Each point represents one document and is colored according to its topic, allowi
 
 ![](PCA_prompts.png)
 
+The scatter plot shows four visibly distinct clusters corresponding to the four document topics, confirming that the embedding space captures meaningful semantic structure.
+
+Astrology (green) and cooking (red) separate most cleanly, occupying opposite regions of the plot along Principal Component 1 — astrology sits in the positive-PC1 region, cooking in the negative-PC1 region, with no overlap between the two groups.
+
+Mathematics (blue) and sports (orange) form their own distinct clusters as well, though they sit closer to each other along Principal Component 2 than the other topic pairs do — both occupy the lower half of the plot, with sports extending further down and mathematics sitting slightly above it. This is a reasonable result: math and sports documents are more likely to share incidental vocabulary (numbers, scoring, measurement) than, say, cooking and astrology, so some proximity between them in the embedding space is expected.
+
 ## Files
 
 - `embeddings.py` - Implements embedding generation using offline mode and NVIDIA NIM API mode.
 - `search.py` - Implements document loading, embedding matrix creation, caching, cosine similarity search, and PCA visualization.
 - `documents.json` - Contains the custom corpus of documents with topic labels, text passages, and unique IDs.
+- `embeddings_cache.json` - Stores generated embeddings for faster future runs.
 - `requirements.txt` - Lists required Python dependencies.
 - `README.md` - Project documentation.
 - `PCA_prompts.png` - Sample PCA output
